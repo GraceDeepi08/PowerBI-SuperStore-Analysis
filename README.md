@@ -9,8 +9,7 @@ Interactive Power BI report built on the Superstore dataset, highlighting key bu
 - **Challenges**: High discounts (>0.3) cause losses in Furniture; West region dominates sales (32%).
 - **Growth Opportunity**: Focus on Tech/Office Supplies could boost profits 20-30%.
 
-
-(dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png)
 *Screenshot of the interactive dashboard showing sales by year/region, profit by category, and discount impacts.*
 
 ## Files Included
